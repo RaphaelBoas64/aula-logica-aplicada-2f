@@ -22,5 +22,6 @@ public class Main {
         rainha.nome = "Tina";
         rainha.sobrenome = "Tunner";
         System.out.println(rainha.falar("alto"));
+        rainha.comer();
     }
 }
